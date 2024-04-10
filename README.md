@@ -28,6 +28,5 @@ npm run dev
 
 Open `http://localhost:5000` and test the application.
 
-## Check the final result in the video below
-
-<video controls src="Vite module federation with Vue.mp4" title="Title"></video>
+> [!NOTE]
+> Check the final result in the video in this repository.

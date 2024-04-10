@@ -1,6 +1,7 @@
 # Vite-module-federation-with-vue
 
 ## Project Setup
+
 In each folder run:
 
 ```sh
@@ -19,10 +20,14 @@ After each build is created, you can server each module with the command:
 npm run preview
 ```
 
-Finally launch the app `vue-host` in a new terminal with: 
+Finally launch the app `vue-host` in a new terminal with:
 
 ```sh
 npm run dev
 ```
 
 Open `http://localhost:5000` and test the application.
+
+## Check the final result in the video below
+
+<video controls src="Vite module federation with Vue.mp4" title="Title"></video>

@@ -14,7 +14,7 @@ Then for each of the folders `vue-module-a`, `vue-module-b` and `vue-module-c`, 
 npm run build
 ```
 
-After each build is created, you can server each module with the command:
+After each build is created, you can serve each module with the command:
 
 ```sh
 npm run preview
